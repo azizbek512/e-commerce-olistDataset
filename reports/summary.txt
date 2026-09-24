@@ -1,0 +1,23 @@
+
+E-COMMERCE ANALYSIS REPORT
+============================
+
+General indicators:
+- Total revenue: 15,843,553.24 BRL
+- Total orders: 98,666
+- Average cost: 4.03 / 5
+- Repurchase rate: 3.05%
+- Delayed orders: 6.45%
+
+Key Takeaways:
+1. Revenue grew steadily throughout 2016–2018, peaking in November 2017.
+2. Delivery delays have a strong negative impact on customer ratings 
+   (an average rating difference of over 2 points).
+3. Customer retention is very low — only 3.05% 
+   of customers make repeat purchases.
+4. The state of São Paulo is the clear leader in sales.
+
+Recommendations:
+1. Focus should be placed on improving delivery times.
+2. Launching email/discount campaigns to retain one-time 
+   buyers is recommended.
